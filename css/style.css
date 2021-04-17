@@ -1,0 +1,41 @@
+body {
+	background-color: #f8f9fa;
+}
+
+nav {
+	background-color: #489fe0;
+}
+
+.csv-btn {
+	background-color: #6c747c;
+	color: white;
+	margin: 2px;
+}
+
+.csv-btn:hover {
+	background-color: #5c646c;
+	color: white;
+}
+
+.common-btn {
+	background-color: #489fe0;
+	color: white;
+	margin: 2px;
+}
+
+.common-btn:hover {
+	background-color: #545b62;
+	color: white;
+}
+
+nav li {
+	color: white;
+}
+
+.content-padding {
+	padding: 25px;
+}
+
+.card-body {
+	text-align: center;
+}
